@@ -22,7 +22,7 @@ This is a simple PHP authentication app created by Keter Kiplagat Titus. It allo
 1. Clone the repository: `git clone https://github.com/ketertitus/php-authentication-app.git`
 2. Import the database: Import the provided SQL file (`database.sql`) into your MySQL database.
 3. Configure the database: Update the database connection settings in `config.php` with your MySQL database credentials.
-4. Install dependencies: If using PHPMailer, install dependencies via Composer (`composer install`).
+4. Install dependencies: If using PHPMailer, install dependencies via Composer (`composer install phpmailer`).
 5. Start the server: Launch a local server (e.g., XAMPP, WAMP) and navigate to the project directory.
 
 ## Usage
