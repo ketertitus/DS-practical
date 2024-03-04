@@ -42,4 +42,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or support, please contact Keter Kiplagat Titus at ktitus@gmail.com.
+For any inquiries or support, please contact Keter Kiplagat Titus at ktitus@kabarak.ac.ke.
